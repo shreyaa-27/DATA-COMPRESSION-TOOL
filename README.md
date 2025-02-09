@@ -74,3 +74,5 @@ aaaabbbcc
 ```
 
 This program is a simple and effective way to reduce file size and restore original data using RLE. 🚀
+[compressed.txt](https://github.com/user-attachments/files/18723999/compressed.txt)
+[decompressed.txt](https://github.com/user-attachments/files/18724000/decompressed.txt)
